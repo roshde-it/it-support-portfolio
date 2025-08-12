@@ -10,6 +10,8 @@ PowerShell (as user is fine):
 - Table to console
 - `win_health_report.json` in this folder
 
+## Windows Health Check sample output
+
 ```sql
 Name               Value
 ----               -----
