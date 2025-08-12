@@ -7,6 +7,8 @@ Small, practical tools and checklists that reflect real Level 1-2 support tasks.
 - **Network Quick Check** - run a few simple diagnostics to help determine if a user's issue is local machine, DNS, or external connectivity.
 - **File Organiser** - move files from the Downloads folder into tidy subfolders by extension.
 - **Log Scanner** - scan .log and .txt files for common error markers and produce a quick summary.
+- **Windows Health Check** — quick machine triage (PowerShell). Output: table + JSON.
+- **Network Quick Check** — now includes a simple /24 ping sweep (`ping_sweep.py`).
 
 Each project folder has its own README with usage examples.
 
