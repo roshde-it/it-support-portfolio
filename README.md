@@ -1,5 +1,9 @@
 # IT Support Portfolio
 
+## Why This Repo
+
+Built to show practical L1 problem-solving, tidy documentation, and simple automation.
+
 Small, practical tools and checklists that reflect real Level 1-2 support tasks. Everything here is simple, safe, and focused on showing problem solving, documentation, and tidy code.
 
 ## Projects
