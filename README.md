@@ -27,6 +27,14 @@ python projects/network_quick_check/netcheck.py
 python projects/file_organiser/organise_downloads.py --path "C:/Users/Name/Downloads"
 python projects/log_scanner/scan_logs.py --path "C:/Temp/logs"
 ```
+PowerShell health check:
+  cd projects/windows_health_check
+  .\win_health_check.ps1
+
+Network ping sweep:
+  cd projects/network_quick_check
+  python ping_sweep.py 192.168.1.0/24
+
 
 ## Notes
 
