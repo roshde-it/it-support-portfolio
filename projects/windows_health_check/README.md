@@ -9,3 +9,16 @@ PowerShell (as user is fine):
 ## Output
 - Table to console
 - `win_health_report.json` in this folder
+
+```sql
+Name               Value
+----               -----
+Hostname           RDS-LAPTOP
+OS                 Microsoft Windows 11 Pro
+BuildNumber        22631
+UptimeHours        5.6
+CDriveFreeGB       112.4
+WindowsUpdateSvc   Running
+DefenderEnabled    True
+DefenderSigAgeHrs  3
+```
